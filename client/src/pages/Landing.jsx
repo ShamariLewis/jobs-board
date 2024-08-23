@@ -16,12 +16,8 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            I'm baby trust fund mustache coloring book franzen unicorn cornhole
-            same actually af before they sold out humblebrag. Waistcoat lo-fi
-            activated charcoal, man bun flexitarian swag dreamcatcher try-hard
-            tofu. Retro VHS truffaut XOXO kinfolk. You probably haven't heard of
-            them air plant viral disrupt cold-pressed, try-hard typewriter
-            direct trade twee cred banh mi listicle etsy.
+            Experiment with our job tracker to see how much of a useful tool it
+            might be for your use case. We hope you enjoy our product
           </p>
           <Link to="/register" className="btn register-link">
             Register
