@@ -16,8 +16,9 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Experiment with our job tracker to see how much of a useful tool it
-            might be for your use case. We hope you enjoy our product
+            Experiment with our job tracker to experience all the features and
+            functionality of this great tool. Create user profile, or test drive
+            with our demo account.
           </p>
           <Link to="/register" className="btn register-link">
             Register
